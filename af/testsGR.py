@@ -22,7 +22,3 @@ gr = gramatica(regras={
 }, terminais=['a', 'b'])
 
 gr.gerar_aleatorio("S")
-
-# print(gr.gerar_aleatorio())
-"""aa = gr.gerador()
-print(aa)"""

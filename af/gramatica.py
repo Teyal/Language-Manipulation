@@ -22,3 +22,6 @@ class gramatica:
             else:
                 resultado.append(i)
         return resultado
+
+    def transformar_afnd(self):
+        return True """nem um pouco completo"""
