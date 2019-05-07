@@ -1,5 +1,5 @@
 # from codigos.gr import gramatica
-from gr import gramatica
+from languages.gr import gramatica
 
 gr = gramatica(regras={
     "S": [

@@ -1,0 +1,17 @@
+languages/__init__.py
+languages/af
+languages/er
+languages/gr
+languages.egg-info/PKG-INFO
+languages.egg-info/SOURCES.txt
+languages.egg-info/dependency_links.txt
+languages.egg-info/top_level.txt
+languages/af/__init__.py
+languages/af/afnd.py
+languages/af/automato.py
+languages/er/__init__.py
+languages/er/er.py
+languages/gr/__init__.py
+languages/gr/__pycache__
+languages/gr/gramatica.py
+languages/gr/testsGR.py

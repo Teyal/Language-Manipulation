@@ -1,5 +1,6 @@
 [tool.poetry]
 name = "languages"
+authors = "Teo"
 version = "0.1.0"
 description = ""
 packages = [
@@ -7,4 +8,4 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.4"
