@@ -3,8 +3,8 @@ import random as rd
 
 class gramatica:
 
-    """infere-se que os simbolos nao terminais sao os nao listados nos terminais
-    e que a variável inicial é S"""
+    '''infere-se que os simbolos nao terminais sao os nao listados nos terminais
+    e que a variável inicial é S'''
     def __init__(self, regras, terminais):
         self.regras = regras
         self.terminais = terminais
@@ -24,4 +24,4 @@ class gramatica:
         return resultado
 
     def transformar_afnd(self):
-        return True """nem um pouco completo"""
+        return True

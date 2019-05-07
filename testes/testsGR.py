@@ -1,4 +1,5 @@
-from gramatica import gramatica
+# from codigos.gr import gramatica
+from gr import gramatica
 
 gr = gramatica(regras={
     "S": [

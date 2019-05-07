@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "languages"
+version = "0.1.0"
+description = ""
+packages = [
+    { include = "languages" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
