@@ -1,3 +1,4 @@
+"""not up to date, see on languages/af for the right copy"""
 from automato import automato
 af = automato(
     estados={'q0', 'q1', 'q2'},
